@@ -1,3 +1,4 @@
+package estudo;
 public class CastingExemplo2 {
     public static void main(String[] args) {
         int a, b;

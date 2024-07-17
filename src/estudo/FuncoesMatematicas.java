@@ -1,3 +1,4 @@
+package estudo;
 public class FuncoesMatematicas {
     public static void main(String[] args) {
         double x = 3.0;

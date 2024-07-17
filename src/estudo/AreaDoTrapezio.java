@@ -1,3 +1,4 @@
+package estudo;
 public class AreaDoTrapezio {
     public static void main(String[] args) {
         double b, B, h, area;
