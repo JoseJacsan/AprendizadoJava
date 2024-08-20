@@ -17,6 +17,7 @@ public class Peca {
 
         double valorDasPecas = (qntdPecas1 * valorPecas1) + (qntdPecas2 * valorPecas2);
 
+        System.out.println("Código das peças: " + codePecas1 + " e " + codePecas2);
         System.out.printf("VALOR A PAGAR: R$ %.2f%n", valorDasPecas);
 
         sc.close();
